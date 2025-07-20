@@ -33,7 +33,7 @@ It’s intended as a simple but impressive demo for AI and automation capabiliti
 | Component | Description |
 |----------|-------------|
 | **Python 3.9+** | Main language |
-| **OpenAI GPT-4** | Core LLM used for reasoning and language understanding |
+| **OpenAI GPT-3.5** | Core LLM used for reasoning and language understanding |
 | **Serper.dev API** | Real-time Google Search API alternative |
 
 
