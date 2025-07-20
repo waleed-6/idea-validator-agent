@@ -35,9 +35,7 @@ It’s intended as a simple but impressive demo for AI and automation capabiliti
 | **Python 3.9+** | Main language |
 | **OpenAI GPT-4** | Core LLM used for reasoning and language understanding |
 | **Serper.dev API** | Real-time Google Search API alternative |
-| **Typer** | CLI interface for input/output |
-| **dotenv** | For managing API keys securely |
-| **Rich** | Optional: for CLI formatting (colors, output blocks) |
+
 
 ---
 
